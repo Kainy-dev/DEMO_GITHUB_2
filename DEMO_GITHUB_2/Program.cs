@@ -10,6 +10,8 @@ namespace DEMO_GITHUB_2
     {
         static void Main(string[] args)
         {
+            Console.Write("coucou grrr !");
+
         }
     }
 }
